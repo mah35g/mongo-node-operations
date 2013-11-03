@@ -1,0 +1,22 @@
+{
+  "name": "mongo-node-operations",
+  "version": "0.0.0",
+  "description": "mongo-node-operations\r =====================",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~1.3.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhebballi/mongo-node-operations.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mhebballi/mongo-node-operations/issues"
+  }
+}

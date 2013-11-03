@@ -5,7 +5,9 @@ CRUD operations on mongo using node
 
 
 Import the JSON file to MongoDb using the command
-> mongoimport -d course -c grades grades.json
+```
+mongoimport -d course -c grades grades.json
+```
 
 grades.json
 

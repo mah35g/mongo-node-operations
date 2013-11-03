@@ -9,6 +9,7 @@ Import the JSON file to MongoDb using the command
 
 grades.json
 
+```json
 {"student" : "Joe", "assignment" : "hw1", "grade" : 90}
 {"student" : "Joe", "assignment" : "hw2", "grade" : 80}
 {"student" : "Joe", "assignment" : "hw3", "grade" : 85}
@@ -21,4 +22,5 @@ grades.json
 {"student" : "Susan", "assignment" : "hw1", "grade" : 97}
 {"student" : "Susan", "assignment" : "hw2", "grade" : 88}
 {"student" : "Susan", "assignment" : "hw3", "grade" : 100}
+```
 
